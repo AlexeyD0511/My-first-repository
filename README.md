@@ -29,3 +29,4 @@
 Ссылка на комментарий: https://app.pachca.com/chats?thread_message_id=323559503&sidebar_message=323563947
 * Проверка №1
 * Проверка №2
+* Проверка №3
